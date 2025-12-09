@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Математика",
+    "shortDescription": "Наука о числах и формах",
+    "images": [
+      "https://apokdpo.ru/wp-content/uploads/2020/02/Учитель-математики-1024x549.jpg",
+      "https://i.pinimg.com/1200x/9f/7b/33/9f7b3339a2380c961269f4002330e16b.jpg"
+    ],
+    "description": "Математика изучает числа, формы, структуры.",
+    "difficulty": "Высокая",
+    "materials": "Учебники, калькулятор",
+    "teacher": "Васильева М.П."
+  },
+  {
+    "id": 2,
+    "title": "Физика",
+    "shortDescription": "Наука о природе",
+    "images": [
+      "https://i.pinimg.com/1200x/f4/f0/58/f4f0585ece2d053eaef48c353bad6c49.jpg",
+      "https://i.pinimg.com/1200x/53/44/c3/5344c301e1b531d3961e8c368d6e7797.jpg"
+    ],
+    "description": "Физика изучает законы природы.",
+    "difficulty": "Высокая",
+    "materials": "Лабораторное оборудование",
+    "teacher": "Петров А.В."
+  }
+]
